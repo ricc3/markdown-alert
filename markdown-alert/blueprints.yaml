@@ -1,0 +1,10 @@
+name: Markdown Alert
+version: 1.0.0
+description: Enables rendering of block elements via the markdown tag alert
+icon: exclamation-triangle
+author:
+  name: Patryk 'Ricc3' S
+keywords: grav, plugin, markdown, alert
+homepage: https://github.com/ricc3/markdown-alert
+docs: https://github.com/ricc3/markdown-alert/blob/main/README.md
+license: MIT
